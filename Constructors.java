@@ -38,7 +38,7 @@ public class Solution {
         company1.displayInfo();
         
         System.out.println();
-        
+        System.out.println("Hello WOrld");
         
         Scanner scanner = new Scanner(System.in);
         System.out.print("");
